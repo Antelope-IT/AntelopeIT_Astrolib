@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Astronomy Library
+#######################################
+# https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5:-Library-specification
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+JulianDate	KEYWORD1
+Nutation	KEYWORD1
+HourAngleDeclination	KEYWORD1
+DegMinSecs	KEYWORD1
+Equatorial	KEYWORD1
+SunPosition	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+toDMS	KEYWORD2
+printArray	KEYWORD2
+calculate_polynomial	KEYWORD2
+calculate_hornerPolynomial	KEYWORD2
+circle_range	KEYWORD2
+convertToJulianDate	KEYWORD2
+convertToJulianDate2000	KEYWORD2
+convertToSidereal	KEYWORD2
+calculateTrueObliquity	KEYWORD2
+convertToApparentSiderealTime	KEYWORD2
+calculateAtmosphericRefractionCorrection	KEYWORD2
+correctForAtmosphericRefraction	KEYWORD2
+nutate	KEYWORD2
+correctForNutation	KEYWORD2
