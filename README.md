@@ -9,7 +9,7 @@ Arduino platform. The IDLAstro library features more capable implementations tha
 
 The examples have been written to demonstrate how the library can be used and also as a check to ensure that the functions return the same results as predicted by Meeus in his book Astronomical Algorithms. The book seems to serve as the inspiration for the IDLAstro library as well being referenced in the code examples for that library.
 
-The library has been incorporated into a larger astronomical hardware project. For reference the project uses an [Arduino MKR1010](https://docs.arduino.cc/hardware/mkr-wifi-1010) and appears to be working well. 
+The library has been incorporated into a larger astronomical hardware [project](https://github.com/Antelope-IT/StarPointer). For reference the project uses an [Arduino MKR1010](https://docs.arduino.cc/hardware/mkr-wifi-1010) and appears to be working well. 
 
 Although the library has been written primarily for use on the Arduino Platform there is nothing in its implementation specific to the Arduino. As such it should be posible to extract the `.cpp` and `.h` files for use in your own project.
 
